@@ -1,0 +1,15 @@
+D:\Desktop\Семинар С#\Sevinar4\bin\Debug\net6.0\Sevinar4.exe
+D:\Desktop\Семинар С#\Sevinar4\bin\Debug\net6.0\Sevinar4.deps.json
+D:\Desktop\Семинар С#\Sevinar4\bin\Debug\net6.0\Sevinar4.runtimeconfig.json
+D:\Desktop\Семинар С#\Sevinar4\bin\Debug\net6.0\Sevinar4.dll
+D:\Desktop\Семинар С#\Sevinar4\bin\Debug\net6.0\Sevinar4.pdb
+D:\Desktop\Семинар С#\Sevinar4\obj\Debug\net6.0\Sevinar4.csproj.AssemblyReference.cache
+D:\Desktop\Семинар С#\Sevinar4\obj\Debug\net6.0\Sevinar4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Семинар С#\Sevinar4\obj\Debug\net6.0\Sevinar4.AssemblyInfoInputs.cache
+D:\Desktop\Семинар С#\Sevinar4\obj\Debug\net6.0\Sevinar4.AssemblyInfo.cs
+D:\Desktop\Семинар С#\Sevinar4\obj\Debug\net6.0\Sevinar4.csproj.CoreCompileInputs.cache
+D:\Desktop\Семинар С#\Sevinar4\obj\Debug\net6.0\Sevinar4.dll
+D:\Desktop\Семинар С#\Sevinar4\obj\Debug\net6.0\refint\Sevinar4.dll
+D:\Desktop\Семинар С#\Sevinar4\obj\Debug\net6.0\Sevinar4.pdb
+D:\Desktop\Семинар С#\Sevinar4\obj\Debug\net6.0\Sevinar4.genruntimeconfig.cache
+D:\Desktop\Семинар С#\Sevinar4\obj\Debug\net6.0\ref\Sevinar4.dll
